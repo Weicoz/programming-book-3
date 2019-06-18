@@ -56,6 +56,7 @@
 - [Python Cookbook, 3rd Edition](./Python/Python%20Cookbook,%203rd%20Edition.pdf) \| 	[download(4.02M)](https://github.com/EvanLi/programming-book-3/raw/master/Python/Python%20Cookbook,%203rd%20Edition.pdf)
 - [Python Cookbook（第三版中文）](./Python/Python%20Cookbook（第三版中文）.pdf) \| 	[download(3.45M)](https://github.com/EvanLi/programming-book-3/raw/master/Python/Python%20Cookbook（第三版中文）.pdf)
 - [Python for Data Analysis - Wes McKinney](./Python/Python%20for%20Data%20Analysis%20-%20Wes%20McKinney.pdf) \| 	[download(4.91M)](https://github.com/EvanLi/programming-book-3/raw/master/Python/Python%20for%20Data%20Analysis%20-%20Wes%20McKinney.pdf)
+- [Python GUI Programming Cookbook - Second Edition](./Python/Python%20GUI%20Programming%20Cookbook%20-%20Second%20Edition.pdf) \| 	[download(9.30M)](https://github.com/EvanLi/programming-book-3/raw/master/Python/Python%20GUI%20Programming%20Cookbook%20-%20Second%20Edition.pdf)
 - [Python Web开发：测试驱动方法](./Python/Python%20Web开发：测试驱动方法.pdf) \| 	[download(5.24M)](https://github.com/EvanLi/programming-book-3/raw/master/Python/Python%20Web开发：测试驱动方法.pdf)
 - [Python Web框架.Flask中文手册](./Python/Python%20Web框架.Flask中文手册.pdf) \| 	[download(1.05M)](https://github.com/EvanLi/programming-book-3/raw/master/Python/Python%20Web框架.Flask中文手册.pdf)
 - [Python数据分析与挖掘实战](./Python/Python数据分析与挖掘实战.pdf) \| 	[download(63.04M)](https://github.com/EvanLi/programming-book-3/raw/master/Python/Python数据分析与挖掘实战.pdf)
